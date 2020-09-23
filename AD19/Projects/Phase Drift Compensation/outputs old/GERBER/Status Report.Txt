@@ -1,0 +1,35 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [PRL_PDC.PrjPcb]
+   Generated File[RF.GTO]
+   Generated File[RF.GTP]
+   Generated File[RF.GTS]
+   Generated File[RF.GTL]
+   Generated File[RF.GP1]
+   Generated File[RF.G1]
+   Generated File[RF.GBL]
+   Generated File[RF.GBS]
+   Generated File[RF.GBP]
+   Generated File[RF.GBO]
+   Generated File[RF.GM1]
+   Generated File[RF.GM2]
+   Generated File[RF.GM7]
+   Generated File[RF.GM13]
+   Generated File[RF.GM15]
+   Generated File[RF.GM16]
+   Generated File[RF.GM30]
+   Generated File[RF.GM31]
+   Generated File[RF.GKO]
+   Generated File[RF.GPT]
+   Generated File[RF.GPB]
+   Generated File[RF.GD1]
+   Generated File[RF.GG1]
+   Generated File[RF.RUL]
+   Generated File[RF.EXTREP]
+   Generated File[RF.REP]
+
+
+Files Generated   : 26
+Documents Printed : 0
+
+Finished Output Generation At 9:36:38 AM On 3/23/2020

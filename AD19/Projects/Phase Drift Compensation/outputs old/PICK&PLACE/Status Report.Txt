@@ -1,0 +1,11 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [[No Variations]] of Project [PRL_PDC.PrjPcb]
+   Generated File[Pick Place for RF.txt]
+   Generated File[Pick Place for RF.csv]
+
+
+Files Generated   : 2
+Documents Printed : 0
+
+Finished Output Generation At 9:37:55 AM On 3/23/2020

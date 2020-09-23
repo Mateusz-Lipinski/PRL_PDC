@@ -1,0 +1,10 @@
+RF PSU:		+15V: 	https://www.tme.eu/pl/details/lrs-35-15/zasilacze-do-wbudowania/mean-well/
+Pelt+fans PSU:	+12V: 	https://www.tme.eu/pl/details/rs-35-12/zasilacze-do-wbudowania/mean-well/
+12V->3.3V DCDC: 	
+fans: 		+12V:	https://www.tme.eu/pl/details/mec0251v2-a99/wentylatory-dc-12v/sunon/mec0251v2-000u-a99/
+Peltier driver: +12V:  
+Peltier:	+12V:	
+xtpico:		+3.3V:
+
+
+

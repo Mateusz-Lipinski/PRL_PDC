@@ -1,0 +1,1 @@
+ST-LINK_CLI -c UR -ME & ST-LINK_CLI -c UR -P .\\build\\stm32-vs.hex -V & ST-LINK_CLI -c UR -HardRst

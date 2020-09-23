@@ -1,0 +1,16 @@
+DRC Rules Export File for PCB: E:\Google Drive\Workspace\AD19\Projects\Phase Drift Compensation\RF.PcbDoc
+RuleKind=Clearance|RuleName=Clearance INT_1|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance RF POLY|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance REF2|Scope=Board|Minimum=19.69
+RuleKind=Clearance|RuleName=Clearance INT|Scope=Board|Minimum=5.91
+RuleKind=Clearance|RuleName=Clearance REF1|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance RF PAD|Scope=Board|Minimum=24.61
+RuleKind=Clearance|RuleName=Clearance RF TRACK|Scope=Board|Minimum=27.56
+RuleKind=MinimumAnnularRing|RuleName=Minimum-IAR|Scope=Board|Minimum=4.92
+RuleKind=MinimumAnnularRing|RuleName=Minimum IAR  > 0.45mm|Scope=Board|Minimum=4.92
+RuleKind=MinimumAnnularRing|RuleName=Minimum IAR  <= 0.45mm|Scope=Board|Minimum=4.92
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=0.00
+RuleKind=Width|RuleName=Width-xTW|Scope=Board|Minimum=3.94
+RuleKind=Clearance|RuleName=Clearance TOP|Scope=Board|Minimum=3.94
